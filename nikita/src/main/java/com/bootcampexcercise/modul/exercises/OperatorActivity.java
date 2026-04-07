@@ -1,4 +1,4 @@
-package com.bootcampexcercise.modul;
+package com.bootcampexcercise.modul.exercises;
 
 public class OperatorActivity {
     public static void main(String[] args) {

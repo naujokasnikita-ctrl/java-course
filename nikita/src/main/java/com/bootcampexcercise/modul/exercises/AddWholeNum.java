@@ -1,4 +1,4 @@
-package exercises;
+package com.bootcampexcercise.modul.exercises;
 
 public class AddWholeNum {
     public static void main(String []args) {
