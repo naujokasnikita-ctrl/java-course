@@ -1,4 +1,4 @@
-package com.bootcampexcercise.modul.exercises;
+package com.bootcampexcercise.module2.activity;
 
 public class NumToWords {public static void main(String[] args) {
     switchCaseEx(5);
