@@ -1,4 +1,4 @@
 package com.bootcampexcercise.module3;
 
-public class Calculater {
+public class DateActivity {
 }
