@@ -1,4 +1,5 @@
 package com.bootcampexcercise.module6;
 
-public class Dog {
+public class Dog implements Animal {
+
 }
