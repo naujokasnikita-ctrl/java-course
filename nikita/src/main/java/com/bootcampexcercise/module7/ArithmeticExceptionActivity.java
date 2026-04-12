@@ -5,12 +5,10 @@ public class ArithmeticExceptionActivity {
     public static void main(String args[]) {
         //we create instance
         ArithmeticExceptionActivity activity = new ArithmeticExceptionActivity();
-
-        System.out.println(" Division by Zero :");
+        
         // triggering exception
         activity.catchMe(10, 0);
 
-        System.out.println("\nValid Division :");
         activity.catchMe(10, 2);
     }
 

@@ -41,7 +41,7 @@ public class Student {
     public void setGrade(double grade) {
         this.grade = grade;
     }
-// the print for a student that contains id name and grade
+//Print whit all
     public void printStudent() {
         System.out.println("id: " + id + "name: " + name + "grade: " + grade );
     }
