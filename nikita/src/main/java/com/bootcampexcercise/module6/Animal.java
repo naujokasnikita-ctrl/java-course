@@ -3,7 +3,6 @@ package com.bootcampexcercise.module6;
 public interface Animal {
     //declare method
     void animalSound();
-
     void sleep();
 
 
